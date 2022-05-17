@@ -24,12 +24,7 @@ namespace CSClass
             Console.WriteLine(random.NextDouble());
             Console.WriteLine(random.NextDouble());
             Console.WriteLine(random.NextDouble());
-            Console.WriteLine(random.NextDouble());
-
-
-
-
-
+            Console.WriteLine(random.NextDouble()*10); //큰수를 반환
         }
     }
 }
